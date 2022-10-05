@@ -42,10 +42,10 @@ Exercise 2: View the default page installed with the web server.
 
 Exercise 3: Set the firewall to block web traffic, but allow ssh traffic.
 
-Screenshots in Results Section
+Please refer to the Screenshots in Results Section  
 
 
-
+  
 
 ## Sources
 * [Find Devices](https://vitux.com/find-devices-connected-to-your-network-with-nmap/)  
