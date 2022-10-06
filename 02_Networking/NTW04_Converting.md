@@ -93,7 +93,7 @@ None
 * Divide the quotient obtained by 2 and note the remainder.
 * Repeat the same process till we get 0 as the quotient.
 * Write the values of all the remainders starting from the bottom to the top.
-*[Pictorial Presentation](\00_includes\Week2\Networking\NTW04\NTW04-Dec-Binary.png)
+*[Pictorial Presentation](../00_includes/02_Networking/NTW04/NTW04-Dec-Binary.png)
 
 ### Binary to decimal: 
 * To convert a binary integer to decimal, start by adding the left-most digit to 0.
