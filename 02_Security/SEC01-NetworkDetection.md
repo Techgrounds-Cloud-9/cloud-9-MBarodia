@@ -17,18 +17,18 @@
 
 ## Explanantion
 Exercise 1: Install nmap and net-tools   
-* ![Refer installation screenshot - nMap](\00_includes\02_Security\SEC01\SEC01-Install-NMap.png)
-* ![Refer installation screenshot - NetTools](\00_includes\02_Security\SEC01\SEC01-Install-NetTools.png)
+* ![Refer installation screenshot - nMap](../00_includes/02_Security/SEC01/SEC01-Install-NMap.png)
+* ![Refer installation screenshot - NetTools](../00_includes/02_Security/SEC01/SEC01-Install-NetTools.png)
 
 After installation, the command ifconfig shows the details about the IP range, the brodcast Ip and the subnet ip.
-* ![ifconfig](\00_includes\02_Security\SEC01\SEC01-NetworkDetection.png)     
+* ![ifconfig](../00_includes/02_Security/SEC01/SEC01-NetworkDetection.png)     
 
 Exercise 2: Open Wireshark and analyse
 
 Wireshark tools shows the various data packets exchanged between the source and destination through various protocols over the Wifi network.   
 In wireshark you can apply 2 kinds of filters, capture filter and display filter. The capture filter limits the packet captured, to the mentioned protocol whereas, the display filter captures all packets but displays only the packtes which we mention in the "display filter".
 
-[Reference Screenshot](\00_includes\02_Security\SEC01\SEC01-Wireshark-SS.png)
+[Reference Screenshot](../00_includes/02_Security/SEC01/SEC01-Wireshark-SS.png)
 
 
   
@@ -50,8 +50,8 @@ https://www.varonis.com/blog/how-to-use-wireshark#packets
 ## Results
 
 * ![Refer installation screenshot - nMap](../00_includes/02_Security/SEC01/SEC01-Install-NMap.png)
-* ![Refer installation screenshot - NetTools](\00_includes\02_Security\SEC01\SEC01-Install-NetTools.png)
-* ![ifconfig](\00_includes\02_Security\SEC01\SEC01-NetworkDetection.png)  
-* ![Reference Screenshot Wireshark](\00_includes\02_Security\SEC01\SEC01-Wireshark-SS.png)
+* ![Refer installation screenshot - NetTools](../00_includes/02_Security/SEC01/SEC01-Install-NetTools.png)
+* ![ifconfig](../00_includes/02_Security/SEC01/SEC01-NetworkDetection.png)  
+* ![Reference Screenshot Wireshark](../00_includes/02_Security/SEC01/SEC01-Wireshark-SS.png)
 
 ## End of Document
