@@ -22,9 +22,9 @@ The Public IP addresses on both the gadgets were same.
 * Find out what your private IP address is of your laptop and mobile on WiFi.
  [Private Address]
      * IPv4 Address of Laptop on wifi - 192.168.2.1 
-    * Pvt Ip [Laptop IP](\00_includes\Week2\Networking\NTW05\NTW05-Pvt-IP-Laptop.png)
+    * Pvt Ip [Laptop IP](../00_includes/02_Networking/NTW05/NTW05-Pvt-IP-Laptop.PNG)
     * IPv4 address of Phone on wifi - 192.168.2.2
-    * Pvt Ip Phone [Phone IP](\00_includes\Week2\Networking\\NTW05\NTW05-Pvt-IP-Phone.png)
+    * Pvt Ip Phone [Phone IP](../00_includes/02_Networking/NTW05/NTW05-Pub-IP-Phone-.PNG)
 * Are the addresses the same or not? Explain why.
 The addresses are different.
 Every gadget on a LAN network is allocated with a new private Ip through DHCP service in the router. Normally the first 3 octets are same and the last octet in the ip address is different for every gadget connected to the router.
@@ -42,11 +42,13 @@ I could still connect to outside network.
 * [Private and Public IpAddress](https://www.youtube.com/watch?v=po8ZFG0Xc4Q)
 * [Ipv4 and Ipv6](https://www.youtube.com/watch?v=ThdO9beHhpA)
 * [Detailed Ipv4 and Ipv6](https://www.youtube.com/watch?v=ThdO9beHhpA)
-* [Ipv4 and IPv6 Formation - Link 1](\00_includes\Week2\Networking\\NTW05\NTW05-Ipv4_DecToBinary)
-* [Ipv4 and IPv6 Formation - Link 2](\00_includes\Week2\Networking\\NTW05\NTW05-Ipv4_DecToBinary_complete)
-* [Difference Between Public and Private Ip Address](\00_includes\Week2\Networking\NTW05\NTW05-Diff_PublicAndPvtIP)
+* [Ipv4 and IPv6 Formation - Link 1](../00_includes/02_Networking/NTW05/NTW05-Ipv4_DecToBinary.PNG)
+* [Ipv4 and IPv6 Formation - Link 2](../00_includes/02_Networking/NTW05/NTW05-Ipv4_DecToBinary_complete.PNG)
+* [Difference Between Public and Private Ip Address](../00_includes/02_Networking/NTW05/NTW05-Diff_PublicAndPvtIP.PNG)
 ## Overcome challenges
+Results of Changing private ip of moile to laptop AND changing mobile private IP address outside the network, is different for different people.
 
+## End of Document
 
 
 
