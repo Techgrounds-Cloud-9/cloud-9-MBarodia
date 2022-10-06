@@ -73,7 +73,7 @@ Pictures
 
 ### Results
 
-* [Screenshot - List of Connected Devices](\00_includes\Week2\Networking\NTW02\NTW02-ConnectedDevices.png)
+* [Screenshot - List of Connected Devices](../00_includes/02_Networking/NTW02/NTW02-ConnectedDevices.png)
 
 
 ## TASK 2 - What other information does the router have about connected equipment?
@@ -110,4 +110,4 @@ You can see the DHCP Server Configuration in settings tab of Page
 The web page of your default gateway.
 
 ### Results
-* [DHCP Server Configuration](\00_includes\Week2\Networking\NTW02\NTW02-DHCPServerConfig.png)
+* [DHCP Server Configuration](../00_includes/02_Networking/NTW02/NTW02-DHCPServerConfig.png)
