@@ -72,7 +72,9 @@ It introduced the new gTLDs and included the internet protocol address spaces fo
 [Give a short description of the challeges you encountered, and how you solved them.]
 
 ### Results:
-* [OSI Layers and Protocols](\00_includes\Week2\Networking\NTW03\NTW03-OSI_Protocols)
+* [OSI Layers and Protocols](../00_includes/02_Networking/NTW03/NTW03-OSI_Protocols.png)
 * Screenshots   
- [Capture Data Packet1](\00_includes\Week2\Networking\NTW03\NTW03-CaptureDataPackets_WireShark1.png)   
- [Capture Data Packet2](\00_includes\Week2\Networking\NTW03\NTW03-CaptureDataPackets_WireShark2.png)
+ [Capture Data Packet1](../00_includes/02_Networking/NTW03/NTW03-CaptureDataPackets_WireShark1.png)   
+ [Capture Data Packet2](../00_includes/02_Networking/NTW03/NTW03-CaptureDataPackets_WireShark2.png)
+
+ ## End of Document
