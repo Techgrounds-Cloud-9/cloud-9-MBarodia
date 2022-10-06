@@ -123,6 +123,6 @@ TCP/IP Model helps you to determine how a specific computer should be connected 
 
 ## Reference Images
 
-* [OSI Model and it's Layers](\00_includes\Week2\Networking\NTW01\NTW01-osi-model-7-layers-1.png)
+* [OSI Model and it's Layers](../00_includes/02_Networking/NTW01/NTW01-osi-model-7-layers-1.png)
 
-* [OSI And TCP/IP](\00_includes\Week2\Networking\NTW01\NTW01-OSI_And_TCP.jpg)
+* [OSI And TCP/IP](../00_includes/02_Networking/NTW01/NTW01-OSI_And_TCP.jpg)
