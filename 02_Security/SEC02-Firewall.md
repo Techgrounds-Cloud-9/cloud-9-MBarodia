@@ -6,16 +6,13 @@
 ## Key terminology
 
 
-
-
-
-
-
-
 Firewalls is software that filters network traffic. A firewall can filter this traffic by protocol, port number, source, and destination of a packet. More advanced firewalls can also inspect the content for 
 CentOS and REHL have a standard firewall daemon (firewalld) installed. For Ubuntu, the default firewall is ufw. An older still common firewall is iptables.
-Firewalls kunnen stateful of stateless zijn. Stateful firewalls onthouden de verschillende states van vertrouwde actieve sessies. Hierbij hoeft een stateful firewall niet elke pakketje te scannen voor deze verbindingen.
-In a cloud environment, you will encounter firewalls as one of the many lines of defense against the public internet.
+
+Statefull Firewall - A stateful firewall monitors the state of active network connections and also analyses the incoming traffic from all communication sources to improve security.
+
+Stateless Firewall - Stateless firewalls donot inspect the traffic and let it moving if it is satisfying the existing security rules. Stateless firewalls are faster and also comparitively cheaper to purchase.
+
 
 
 ## Exercise1
@@ -62,7 +59,7 @@ None
 ![Screenshot - Apache Install and Upgarde](../00_includes/02_Security/SEC02/SEC02-ApacheInstallUpgrade)   
 ![Screenshot - Default web page on Ubuntu Server](../00_includes/02_Security/SEC02/SEC02-PageWebServer.png)  
 ![Firewall on Ubuntu](../00_includes/02_Security/SEC02/SEC02-FWonUbuntu.png)   
-![Firewall SSH Info](../00_includes/02_Security/SEC02/SEC02-FW-OpenSSHInfo.png)   
+![Firewall SSH Info](../00_includes/02_Security/SEC02/SEC02-FW-OpenSSHInfo.PNG)   
 ![UFW Status after Firewall](../00_includes/02_Security/SEC02/SEC02-FW-UFWStatus.png)
 
 

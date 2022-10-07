@@ -9,9 +9,15 @@
 ## Exercise
 Translate the following decimal numbers into binary:
 
+For example; 16   
+128 |  64  |  32 |16| 8 |4|2|1
+0|0|0|1|0|0|0|0
+00010000
+
+
 Decimal ___  Binary
 
-16   __      10000
+16   __      00010000
 
 
 128 ___ 10000000
@@ -29,6 +35,12 @@ Decimal ___  Binary
 
 
 Translate the following binary numbers into decimal:   
+
+For example: 10101010
+128 |  64  |  32 |16| 8 |4|2|1
+1|0|1|0|1|0|1|0
+128+32+8+2 = 170
+
 Binary     ___        Decimal  
 
 1010 1010  ___     170
@@ -46,7 +58,25 @@ Binary     ___        Decimal
 
 
 Translate the following decimal numbers into hexadecimal:  
+
+HEXADEC| 1|2|3|4|5|6|7|8|9|A|B|C|D|E|F|  
+DEC|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
+
+For example: DEC -246
+
+246/16 = 15  Remainder 6
+
+15/16 = 0 Remainder 15
+
+Considering remainders (Bottom to Top)- 
+15 and 6
+F and 6
+HEXA - F6
+
+
 Decimal        ___           Hex   
+
+
 
 15   ___    F
 
@@ -60,6 +90,15 @@ Decimal        ___           Hex
 
 
 Translate the following hexadecimal numbers into decimal:   
+
+HEXADEC| 1|2|3|4|5|6|7|8|9|A|B|C|D|E|F|  
+DEC|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
+
+For example: cb
+C is 12
+b is 11
+(CB) = (12*16)+(11) = 192+11 = 203
+
 Hex           ___           Decimal
 
 88   ___   136
@@ -81,6 +120,8 @@ d8 ___ 216
 * [Decimal to Hexa](https://www.permadi.com/tutorial/numDecToHex/)
 * [Hexa to Decimal](https://www.cuemath.com/numbers/hexadecimal-to-decimal/)
 NTW04-Dec-Binary.png
+* [Dec to Hex](https://www.vedantu.com/maths/hex-to-decimal)
+* [Hex to Dec](https://www.permadi.com/tutorial/numDecToHex/)
 
 ## Overcome challenges
 

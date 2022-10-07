@@ -99,7 +99,8 @@ Using the tabs on the top -
 - DHCP Server
 - DHCP Binding
 
-
+* [Reference Screenshot 1](../00_includes/02_Networking/NTW02/NTW02-ConnectedDevices.PNG)
+* [Reference Screenshot 2](../00_includes/02_Networking/NTW02/NTW02-ConnectedDevices-Router.PNG)
 
 ## TASK 3 - Where is your DHCP server on your network? What are the configurations of this?
 

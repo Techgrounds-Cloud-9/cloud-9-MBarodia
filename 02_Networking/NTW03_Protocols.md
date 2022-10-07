@@ -53,8 +53,10 @@ ___
 ____
 Who determines what protocols we use and what is needed to introduce your own protocol.
 ____
-There are number of organizations which coordinates DNS, IP Addressing and other Internet protocol resources:
+You can get your protocol standardized form any of the below organization - 
 - The Internet Assigned Numbers Authority (IANA) coordinates the DNS, IP addressing, and other internet protocol resources. All domain names and IP addresses are allocated from IANA. 
+- W3C - World Wide Web Consortium 
+- IETF - Internet Engineering Task Force
 - Internet Research Task Force (IRTF) - The Internet Research Task Force is a self-organized group. It focuses on long-term research issues to evolve internet protocols, applications, architecture, and technology. 
 - Internet Corporation for Assigned Names and Numbers (ICANN)-
 It introduced the new gTLDs and included the internet protocol address spaces for IPv4 and IPv6, assigning address blocks to regional internet registries.
