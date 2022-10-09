@@ -47,6 +47,6 @@ MFA works on the mechanism that the user will be granted access only after givin
 3. Principle of least privilege - Also commonly adderessed as POLP, the priciple of least privilege means the user are assigned only the rights which are essential to do their current jobs. 
 
 
-**MFA is authentication mechanism and POLP is an authoriztion mechanism.**
+**MFA is authentication mechanism and POLP is an authorization mechanism.**
 
 ## End of Document
