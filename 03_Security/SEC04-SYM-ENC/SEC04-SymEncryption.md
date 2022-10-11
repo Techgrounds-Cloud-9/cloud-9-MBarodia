@@ -24,37 +24,18 @@ The term 'Enigma Code' is generally understood as the cipher device used by Germ
 It first appaeared in 1918-1920 i n Germany.
 
 * Find two digital ciphers that are being used today.
-ROT13 - It is a recent form of Caesar Cipher. The ROT13 method moves 13 letters forward. The reason of moving 13 places is that with 2 rounds of substitution decrypts the message to its original form.   
-RC4(Rivest Cipher 4) - This method is most widely used mostly in software.
+#### ROT13 - It is a recent form of Caesar Cipher. The ROT13 method moves 13 letters forward. The reason of moving 13 places is that with 2 rounds of substitution decrypts the message to its original form.   
+#### RC4(Rivest Cipher 4) - This method is most widely used mostly in software.
 
 * Send a symmetrically encrypted message to one of your peers via the public Slack channel. They should be able to decrypt the message using a key you share with them. Try to think of a way to share this encryption key without revealing it to everyone. 
 You are not allowed to use any private messages or other communication channels besides Slack. Analyse the shortcomings of this method.
 
-
-***Using Deffie Helman Algo to generate the secret code***
-
-P - Prime Number: 13
-G - Generator Key: 6
-
-Think of a number as a private key (you dont have to share this with anyone).
-
-Pvt - Private Key : 2
-
-G^Pvt MOD P = 10
-
-The expected receiver shares his/her result For example; 7 is received from the receiver.
-
-7^ Pvt MOD P = The Secret Code (In this case 10)
-
-Use this secret code to encode/decode the cipher using the below link:
-https://cryptii.com/pipes/caesar-cipher OR https://cryptii.com/pipes/caesar-cipher
-
 Result:  
-Key shared with team   
-* [Encode](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/2bbe68a5670b09ad1da7b68f80328e88d8aa60a4/00_includes/03_Security/SEC04/SEC04-Encode-DHAlgo.png)  
+Key generated using the Online Key generator tool and shared with team -  
+![Encode](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/2bbe68a5670b09ad1da7b68f80328e88d8aa60a4/00_includes/03_Security/SEC04/SEC04-Encode-DHAlgo.png)  
 
-Key shared by team
-* [Decode](../)
+Key shared by team -   
+![Decode](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/2bbe68a5670b09ad1da7b68f80328e88d8aa60a4/00_includes/03_Security/SEC04/SEC04-Decode-DHAlgo.png)
 
 
 Tools:   
@@ -66,8 +47,6 @@ https://cryptotools.net/dhe
 https://cryptii.com/pipes/caesar-cipher
 
 https://www.tcsion.com/OnlineAssessment/ScientificCalculator/Calculator.html#nogo
-
-
 
 
 ## Sources
@@ -83,4 +62,3 @@ https://www.tcsion.com/OnlineAssessment/ScientificCalculator/Calculator.html#nog
 Exploring the solution took longer since there are many ways to do the same thing.
 
 
-## Results
