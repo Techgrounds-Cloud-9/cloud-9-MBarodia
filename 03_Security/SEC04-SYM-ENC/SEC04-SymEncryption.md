@@ -31,6 +31,44 @@ RC4(Rivest Cipher 4) - This method is most widely used mostly in software.
 You are not allowed to use any private messages or other communication channels besides Slack. Analyse the shortcomings of this method.
 
 
+***Using Deffie Helman Algo to generate the secret code***
+
+P - Prime Number: 13
+G - Generator Key: 6
+
+Think of a number as a private key (you dont have to share this with anyone).
+
+Pvt - Private Key : 2
+
+G^Pvt MOD P = 10
+
+The expected receiver shares his/her result For example; 7 is received from the receiver.
+
+7^ Pvt MOD P = The Secret Code (In this case 10)
+
+Use this secret code to encode/decode the cipher using the below link:
+https://cryptii.com/pipes/caesar-cipher OR https://cryptii.com/pipes/caesar-cipher
+
+Result:
+Key shared with team
+* [Encode](../)
+Key shared by team
+* [Decode](../)
+
+
+Tools:   
+
+https://generate-random.org/encryption-key-generator?count=1&bytes=32&cipher=des-cbc&string=&password=
+
+https://cryptotools.net/dhe
+
+https://cryptii.com/pipes/caesar-cipher
+
+https://www.tcsion.com/OnlineAssessment/ScientificCalculator/Calculator.html#nogo
+
+
+
+
 ## Sources
 [Ceasar Cipher](https://www.sciencedirect.com/topics/computer-science/caesar-cipher)
 
