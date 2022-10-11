@@ -49,9 +49,10 @@ The expected receiver shares his/her result For example; 7 is received from the 
 Use this secret code to encode/decode the cipher using the below link:
 https://cryptii.com/pipes/caesar-cipher OR https://cryptii.com/pipes/caesar-cipher
 
-Result:
-Key shared with team
-* [Encode](../)
+Result:  
+Key shared with team   
+* [Encode](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/2bbe68a5670b09ad1da7b68f80328e88d8aa60a4/00_includes/03_Security/SEC04/SEC04-Encode-DHAlgo.png)  
+
 Key shared by team
 * [Decode](../)
 
