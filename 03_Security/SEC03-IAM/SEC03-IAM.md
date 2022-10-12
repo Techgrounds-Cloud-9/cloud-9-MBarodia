@@ -4,9 +4,11 @@ SEC03 - IAM
 
 ## Key terminology
 
-* POLP - Principle of least privilege
+* POLP - Principle of least privilege 
 * MFA - Multi Factor Authorization
-* IAM - Identity and Access Management. MFA and POLP are part of IAM.
+* IAM - Identity and Access Management. MFA and POLP are part of IAM.      
+
+***Note: ALl these terms are explained as part of assignment***
 ___
 
 ## Exercise
@@ -48,8 +50,7 @@ Three Factors of MFA -
 
 MFA works on the mechanism that the user will be granted access only after giving atleast 2 levels of evidence to access a system, an app or a website etc.
 
-3. Principle of least privilege - Also commonly adderessed as POLP, the priciple of least privilege means the user are assigned only the rights which are essential to do their current jobs. For example, A HR person allocated to the IT deaprtment, doesnt need the access of employee in other departments. 
-
+3. Principle of least privilege - Also commonly adderessed as POLP, the priciple of least privilege means the user are assigned only the rights which are essential to do their current jobs. For example, A HR person allocated to the IT deaprtment, doesnt need the access of employee in other departments. This limits the access of each user to its role and hence enhances the overall security by not allowing unrelated people access others data.
 
 **MFA is authentication mechanism and POLP is an authorization mechanism.**
 
