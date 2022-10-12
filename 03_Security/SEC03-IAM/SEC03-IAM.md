@@ -1,6 +1,5 @@
-# [Subject]
-# 
-SEC03 - IAM 
+# [Identity and Access Management]
+# SEC03 - IAM 
 
 ## Key terminology
 
