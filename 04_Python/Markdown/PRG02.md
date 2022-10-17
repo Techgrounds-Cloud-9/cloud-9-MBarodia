@@ -4,7 +4,7 @@
 ## Key terminology
 
 Python - Python is a programming language
-Variables in Python - Variables are containers of values. It can be a number, string, boolean, float etc.
+Variables in Python - Variables are containers of values. It can be of type number, string, boolean, float etc.
 
 ## Exercise
 Exercise 1:

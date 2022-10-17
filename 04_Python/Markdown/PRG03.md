@@ -3,6 +3,8 @@
 
 ## Key terminology
 
+DataTypes in Python - Data type refers to the kind of data a variable holds
+
 ### Exercise 1:
 Create a new script.
 Copy the code below into your script.
@@ -13,6 +15,9 @@ d = "18.5"
 Determine the data types of all four variables (a, b, c, d) using a built in function.
 Make a new variable x and give it the value b + d. Print the value of x. This will raise an error. Fix it so that print(x) prints a float.
 Write a comment above every line of code that tells the reader what is going on in your script.
+
+### Script
+* [Script-EXC01](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/7aacd4e70c59f421588eea759138fd31f61a1988/04_Python/Scripts/PRG03-EXC01.py)
 
 ### Python Code:
 a = 'int'
@@ -50,7 +55,8 @@ Create a new script.
 Use the input() function to get input from the user. Store that input in a variable.
 Find out what data type the output of input() is. See if it is different for different kinds of input (numbers, words, etc.).
 
-
+### Script
+* [Script-EXC02](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/7aacd4e70c59f421588eea759138fd31f61a1988/04_Python/Scripts/PRG03-EXC02.py)
 ### Python Code
 
 Value1 = input("Enter Value 1:")
@@ -74,4 +80,6 @@ Value 2- Manisha
 Enter Value 3:2.5
 Value 3- 2.5
 <class 'str'>
+
+## Results
 
