@@ -1,12 +1,12 @@
-# [Subject]
-# SECURITY 05 - Asymmetric encryption
+# [Asymmetric encryption]
+# SECURITY 05 
 
 
 
 ## Key terminology
 
 Public and Private Key - A Public key is a set of scrambled text used as a medium to decrypt the message, and it is owned by the receiver whereas a Private key is personal key.
-Asymmetric Encyption - In asymmetric encyption, 2 different keys are used for encytion and decryption os the messages. A public key is public to everyone and the private key is only posssesed by the person who creates the pair of the 2 keeys.   
+Asymmetric Encyption - In asymmetric encyption, 2 different keys are used for encrytion and decryption of the messages. A public key is public to everyone and the private key is only posssesed by the person who creates the pair of the 2 keys.   
 ***The process in case of asymmetric encyption starts with the receiver not the sender.***   
 The receiver generates the pair of the keys using any of the online tools available to generate the key pairs. Devglan is one of them. 
 For example, An encrypted message has to be sent from A to B. ***B, the receiver*** initaites this process by generating the pair of public and private key. B keeps the private key with him and sends the public key to A.
@@ -16,8 +16,8 @@ For example, An encrypted message has to be sent from A to B. ***B, the receiver
 
 * Generate a key pair.
 Key pair generated using "Online RSA Encryption, Decryption And Key Generator Tool devglan".   
-[Screenshot](../00_includes/03_Security/SEC05/SEC05-GenerateKeyPair.png)
-[Screenshot](..)
+[Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/4365b5dc772fd3187b62ea633aa8e98e307307f2/00_includes/03_Security/SEC05/SEC05-GenerateKeyPair.PNG)
+
 
 * Send an asymmetrically encrypted message to one of your peers via the public Slack channel. They should be able to decrypt the message using a key you share with them. The recipient should be able to read the message, but it should remain a secret to everyone else.
 You are not allowed to use any private messages or other communication channels besides Slack. Analyse the difference between this method and symmetric encryption.  
@@ -68,3 +68,7 @@ According to me this assignment should have been before the SEC04 because the co
 
 
 ## Results
+
+Result images are placed in the exercise section
+
+## End of Document

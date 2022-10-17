@@ -1,24 +1,31 @@
-# [Subject]
-# LINUX 04
+# [Setting Up]
+# PRG01
 
 ## Key terminology
 
-
+Python - Python is a programming language
 
 ## Exercise
-1. Start the telnet daemon.
-1. Find out the PID of the telnet daemon.
-1. Find out how much memory telnetd is using.
-1. Stop or kill the telnetd process.
+* Install the latest version of Python from https://www.python.org/
+* Install VS Code from https://code.visualstudio.com/download
+* Install the Python plug-in in VS Code.
+* Write the following Python code. The output in the terminal should be the text “Hello world!”
+
 
 ## Sources
-https://www.howtoforge.com/how-to-install-and-use-telnet-on-ubuntu/
+* https://www.python.org/
+* https://code.visualstudio.com/download
 
-https://www.linuxfoundation.org/blog/blog/classic-sysadmin-how-to-kill-a-process-from-the-command-line
 
 
 ## Overcome challenges
-Telnetd Install Command was stuck for some 10 mins but on checking the status, the telnet already has started with the PID mentioned below.
+
+None
 
 
 ## Results
+
+* ![Installed Python](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/4365b5dc772fd3187b62ea633aa8e98e307307f2/00_includes/04_Python/PRG01-PythonInstall.PNG)
+* ![Python Plugin in VS Code](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/4365b5dc772fd3187b62ea633aa8e98e307307f2/00_includes/04_Python/PRG01-PythonPluginInVSC.PNG)
+* ![Hello World Example](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/4365b5dc772fd3187b62ea633aa8e98e307307f2/00_includes/04_Python/PRG01-HelloWorld.PNG)
+

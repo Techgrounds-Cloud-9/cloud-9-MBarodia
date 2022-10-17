@@ -10,7 +10,7 @@ SSL Certificate - Its a code that authenticates the website identity and verifie
 
 1. Create a self-signed certificate on your VM.  
 ![Certificate created in VM](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/7c514c1c7848a1f377fea5e136cae8d1d1e8eacb/00_includes/03_Security/SEC06/SEC06-CERT.PNG)  
-![Key creted in VM](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/7c514c1c7848a1f377fea5e136cae8d1d1e8eacb/00_includes/03_Security/SEC06/SEC06-KEY.PNG)
+![Key created in VM](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/7c514c1c7848a1f377fea5e136cae8d1d1e8eacb/00_includes/03_Security/SEC06/SEC06-KEY.PNG)
 
 2. Analyze some certification paths of known websites (ex. techgrounds.nl / google.com / ing.nl).
 * ![ING](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/7c514c1c7848a1f377fea5e136cae8d1d1e8eacb/00_includes/03_Security/SEC06/SEC06-ING_Cert.PNG)  
