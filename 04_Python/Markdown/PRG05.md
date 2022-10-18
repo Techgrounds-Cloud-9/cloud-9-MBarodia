@@ -40,6 +40,13 @@ elif a == 100:
  </pre>
  </code>   
 
+# Results
+
+![Execise 01](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/e3d76e3f81e9b770dab305898f406a169df52ab2/00_includes/04_Python/PRG05/EXC01.PNG)
+
+
+![Execise 02](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/e3d76e3f81e9b770dab305898f406a169df52ab2/00_includes/04_Python/PRG05/EXC02.PNG)
+
  # Sources
 
  None
