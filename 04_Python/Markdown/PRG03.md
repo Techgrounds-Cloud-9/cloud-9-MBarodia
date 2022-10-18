@@ -20,6 +20,8 @@ Write a comment above every line of code that tells the reader what is going on 
 * [Script-EXC01](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/7aacd4e70c59f421588eea759138fd31f61a1988/04_Python/Scripts/PRG03-EXC01.py)
 
 ### Python Code:
+
+<pre><code>
 a = 'int'
 b = 7
 c = False
@@ -37,8 +39,11 @@ print(type(d))
 p = float(d)
 x = b+p
 print(x)
+</pre>
+</code>
 
 ### Result:
+<pre><code>
 
 Data Type of a
 <class 'str'>
@@ -49,7 +54,8 @@ Data Type of c:
 Data Type of d:
 <class 'str'>
 25.5
-
+</pre>
+</code>
 Exercise 2:
 Create a new script.
 Use the input() function to get input from the user. Store that input in a variable.
@@ -58,7 +64,7 @@ Find out what data type the output of input() is. See if it is different for dif
 ### Script
 * [Script-EXC02](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/7aacd4e70c59f421588eea759138fd31f61a1988/04_Python/Scripts/PRG03-EXC02.py)
 ### Python Code
-
+<pre><code>
 Value1 = input("Enter Value 1:")
 print("Value 1- " + Value1)
 print(type(Value1))
@@ -69,8 +75,11 @@ Value3 = input("Enter Value 3:")
 print("Value 3- " + Value3)
 print(type(Value3))
 
+</pre>
+</code>
 ### Result
 
+<pre><code>
 Enter Value 1:24
 Value 1- 24
 <class 'str'>
@@ -81,5 +90,18 @@ Enter Value 3:2.5
 Value 3- 2.5
 <class 'str'>
 
+</pre></code>
 ## Results
+
+Mentioned in Exercise Section
+
+## Overcome Challenges
+
+None
+
+## Source
+
+None
+
+## End of Document
 
