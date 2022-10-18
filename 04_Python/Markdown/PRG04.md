@@ -13,7 +13,7 @@ Use a while loop to print the value of x in every iteration of the loop. After p
 Example output:
 
 Python Code
-
+<pre><code>
 x = 0
 y=int(input("x: "))
 print(y)
@@ -24,7 +24,8 @@ while y <=10:
 
 Output
 ![Exercise 1]()
-
+</pre>
+</code>
 
 ### Exercise 2:
 
@@ -36,14 +37,25 @@ Print the value of i in the for loop. You did not manually assign a value to i. 
 Add a variable x with value 5 at the top of your script.
 Using the for loop, print the value of x multiplied by the value of i, for up to 50 iterations.
 
-
-
+Python Code:
+<pre><code>
+x=5
+y=0
+i=0
+for i in range(10):
+    print(i)
+    print(x)
+    print(x*i)
+    
+</pre>
+</code>
 ### Exercise 3:
 Create a new script.
 Copy the array below into your script.
 arr = ["Coen", "Casper", "Joshua", "Abdessamad", "Saskia"]
 Use a for loop to loop over the array. Print every name individually.
-Example output:
+
+<pre><code>
 
 Python Code:
 
@@ -52,6 +64,16 @@ for x in arr:
     print(x)
     continue
   
-  
+</pre>
+</code>
 
+# Sources
+
+ None
+
+ # Overcome Challenges
+
+ None
+
+ # End of Document
 
