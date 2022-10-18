@@ -96,3 +96,16 @@ def PRG06_avg2(x,y):
 
 </pre>
 </code>
+
+## Results
+![Exercide 01 - Result](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/e3d76e3f81e9b770dab305898f406a169df52ab2/00_includes/04_Python/PRG06/PRG06-EXC01.PNG)
+
+![Exercide 02 - Result](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/e3d76e3f81e9b770dab305898f406a169df52ab2/00_includes/04_Python/PRG06/PRG06-EXC02.PNG)
+
+![Exercide 03 - Result](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/e3d76e3f81e9b770dab305898f406a169df52ab2/00_includes/04_Python/PRG06/PRG06-EXC03.PNG)
+
+## Overcome Challenges
+ None
+## Sources
+None
+# End of Document
