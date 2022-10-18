@@ -93,7 +93,9 @@ Value 3- 2.5
 </pre></code>
 ## Results
 
-Mentioned in Exercise Section
+![Exercise 01 - Result](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/d125b0bc100b66b86bd29755f0ad5739b946cb8d/00_includes/04_Python/PRG03/EXC01.PNG)
+
+![Exercise 02 - Result](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/d125b0bc100b66b86bd29755f0ad5739b946cb8d/00_includes/04_Python/PRG03/EXC02.PNG)
 
 ## Overcome Challenges
 
