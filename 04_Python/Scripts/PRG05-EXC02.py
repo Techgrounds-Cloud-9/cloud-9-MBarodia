@@ -1,3 +1,6 @@
+# Ask the user of your script for a number. 
+# Give them a response based on whether the number is higher than, lower than, or equal to 100.
+
 
 a = 0
 a = int(input("Enter Number: "))

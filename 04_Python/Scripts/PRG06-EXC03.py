@@ -1,3 +1,8 @@
+# Create a new script.
+# Copy the code below into your script.
+# def avg():
+#    # write your code here
+
 import statistics
 from sys import argv
 
