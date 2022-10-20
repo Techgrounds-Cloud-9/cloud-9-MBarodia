@@ -4,6 +4,7 @@
 
 ## Key terminology
 * Dictionaries in Python - It is an composite data type in python.  Dictionaries are different from Python lists in the context of how you access both of them. List elements are accessed by their position in the list, via indexing and Dictionary elements are accessed via keys.
+* csv File Handling - Python has a predefined package for csv file handling, to read, write and append the data to file. Use "import csv" on top of the script to use the package.
 
 
 ## Exercise
