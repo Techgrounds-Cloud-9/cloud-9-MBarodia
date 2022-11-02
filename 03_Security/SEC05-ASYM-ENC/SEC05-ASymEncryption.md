@@ -51,7 +51,7 @@ The expected receiver shares his/her result For example; 7 is received from the 
 7^ Pvt MOD P = The Secret Code (In this case 10)
 
 Use this secret code to encode/decode the cipher using the below link:
-https://cryptii.com/pipes/caesar-cipher OR https://cryptii.com/pipes/caesar-cipher
+* [Secret Code](https://cryptii.com/pipes/caesar-cipher)
 
 
 ## Sources

@@ -29,13 +29,13 @@ The RTO would be 8 minutes
 
 ## Sources
 
-https://phoenixnap.com/blog/rto-vs-rpo-differences
+![RTO and RPO Differences](https://phoenixnap.com/blog/rto-vs-rpo-differences)
 
-https://www.rubrik.com/blog/technology/19/5/rpo-rto-disaster-recovery
+![Disaster Recovery](https://www.rubrik.com/blog/technology/19/5/rpo-rto-disaster-recovery)
 
-https://www.youtube.com/watch?v=SeS6ke3B4Tg
+![Youtube Link](https://www.youtube.com/watch?v=SeS6ke3B4Tg)
 
-https://www.liquidweb.com/blog/system-hardening/
+![System Hardening](https://www.liquidweb.com/blog/system-hardening/)
 
 
 

@@ -1,4 +1,4 @@
-# [Subject]
+# [Network Detection]
 # SEC-01
 
 ## Key terminology
@@ -17,18 +17,18 @@
 
 ## Explanantion
 Exercise 1: Install nmap and net-tools   
-* ![Refer installation screenshot - nMap](../00_includes/02_Security/SEC01/SEC01-Install-NMap.png)
-* ![Refer installation screenshot - NetTools](../00_includes/02_Security/SEC01/SEC01-Install-NetTools.png)
+* ![Refer installation screenshot - nMap](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/2c113d7a3fa2eb025db17c4d179e26cceebc6c00/00_includes/02_Security/SEC01/SEC01-Install-NMap.png)
+* ![Refer installation screenshot - NetTools](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/2c113d7a3fa2eb025db17c4d179e26cceebc6c00/00_includes/02_Security/SEC01/SEC01-Install-NetTools.png)
 
 After installation, the command ifconfig shows the details about the IP range, the brodcast Ip and the subnet ip.
-* ![ifconfig](../00_includes/02_Security/SEC01/SEC01-NetworkDetection.png)     
+* ![ifconfig](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/2c113d7a3fa2eb025db17c4d179e26cceebc6c00/00_includes/02_Security/SEC01/SEC01-NetworkDetection.PNG)     
 
 Exercise 2: Open Wireshark and analyse
 
 Wireshark tools shows the various data packets exchanged between the source and destination through various protocols over the Wifi network.   
-In wireshark you can apply 2 kinds of filters, capture filter and display filter. The capture filter limits the packet captured, to the mentioned protocol whereas, the display filter captures all packets but displays only the packtes which we mention in the "display filter".
+In wireshark you can apply 2 kinds of filters, capture filter and display filter. The capture filter limits the packet captured, to the mentioned protocol whereas, the display filter captures all packets but displays only the packets which we mention in the "display filter".
 
-[Reference Screenshot](../00_includes/02_Security/SEC01/SEC01-Wireshark-SS.png)
+![Reference Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/2c113d7a3fa2eb025db17c4d179e26cceebc6c00/00_includes/02_Security/SEC01/SEC01-Wireshark-SS.png)
 
 
   
@@ -36,11 +36,11 @@ In wireshark you can apply 2 kinds of filters, capture filter and display filter
 ## Sources
 * [Find Devices](https://vitux.com/find-devices-connected-to-your-network-with-nmap/)
 
-https://www.youtube.com/watch?v=Y858t-jUDdA
+* [Youtube Link1](https://www.youtube.com/watch?v=Y858t-jUDdA)
 
-https://youtu.be/Y858t-jUDdA
+* [Youtube Link2](https://youtu.be/Y858t-jUDdA)
 
-https://www.varonis.com/blog/how-to-use-wireshark#packets
+* [About Wireshark packets](https://www.varonis.com/blog/how-to-use-wireshark#packets)
 
 
 ## Overcome challenges
@@ -49,9 +49,9 @@ https://www.varonis.com/blog/how-to-use-wireshark#packets
 
 ## Results
 
-* ![Refer installation screenshot - nMap](../00_includes/02_Security/SEC01/SEC01-Install-NMap.png)
-* ![Refer installation screenshot - NetTools](../00_includes/02_Security/SEC01/SEC01-Install-NetTools.png)
-* ![ifconfig](../00_includes/02_Security/SEC01/SEC01-NetworkDetection.png)  
-* ![Reference Screenshot Wireshark](../00_includes/02_Security/SEC01/SEC01-Wireshark-SS.png)
+* ![Refer installation screenshot - nMap](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/2c113d7a3fa2eb025db17c4d179e26cceebc6c00/00_includes/02_Security/SEC01/SEC01-Install-NMap.png)
+* ![Refer installation screenshot - NetTools](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/2c113d7a3fa2eb025db17c4d179e26cceebc6c00/00_includes/02_Security/SEC01/SEC01-Install-NetTools.png)
+* ![ifconfig](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/2c113d7a3fa2eb025db17c4d179e26cceebc6c00/00_includes/02_Security/SEC01/SEC01-NetworkDetection.PNG)  
+* ![Reference Screenshot Wireshark](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/2c113d7a3fa2eb025db17c4d179e26cceebc6c00/00_includes/02_Security/SEC01/SEC01-Wireshark-SS.png)
 
 ## End of Document

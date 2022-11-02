@@ -54,15 +54,17 @@ $6$zygYquEM2apQi67X$QeeoS2To6M9TAYOCy/FvKLWkNyNe0D6SzvIq6fVdnqmLSwVkUqFvWkdISfNO
 All the digests end is the same way, but the initial values are different inspite of the password being the same. This shows that salting has been done to the scambled text to make it more secure. So, if you apply salting, its not so easy to crack the common/bad password.
 
 ## Sources
-https://www.youtube.com/watch?v=xsp--srKWKw
+![You Tube](https://www.youtube.com/watch?v=xsp--srKWKw)
 
-https://www.techtarget.com/whatis/definition/rainbow-table
+![Rainbow Table](https://www.techtarget.com/whatis/definition/rainbow-table)
 
-https://www.geeksforgeeks.org/understanding-rainbow-table-attack/#:~:text=A%20rainbow%20table%20is%20a,password%20produces%20a%20particular%20hash.
+![Rainbow Table Attack -1](https://www.geeksforgeeks.org/understanding-rainbow-table-attack/#:~:text=A%20rainbow%20table%20is%20a,password%20produces%20a%20particular%20hash)
 
-https://crackstation.net/
+![Rainbow Table Attack - 2](https://www.geeksforgeeks.org/understanding-rainbow-table-attack/#:~:text=A%20rainbow%20table%20is%20a,password%20produces%20a%20particular%20hash.)
 
-https://www.geeksforgeeks.org/understanding-rainbow-table-attack/#:~:text=A%20rainbow%20table%20is%20a,password%20produces%20a%20particular%20hash.
+![Tool](https://crackstation.net/)
+
+
 
 
 ## Overcome challenges

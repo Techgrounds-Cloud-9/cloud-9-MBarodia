@@ -1,5 +1,5 @@
-# [Subject]
-# SECURITY 04 - Symmetric Encryption
+# [Symmetric Encryption]
+# SECURITY 04 
 
 ## Key terminology
 * Cipher - Its a method of transforming a message to hide its meaning.
