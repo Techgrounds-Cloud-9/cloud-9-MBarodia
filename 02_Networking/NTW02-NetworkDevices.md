@@ -1,6 +1,6 @@
 
-# [Subject]
-# NTW02-NETWORK DEVICES
+# [NETWORK DEVICES]
+# NTW02
 
 ## Key terminology
 
@@ -73,7 +73,7 @@ Pictures
 
 ### Results
 
-* [Screenshot - List of Connected Devices](../00_includes/02_Networking/NTW02/NTW02-ConnectedDevices.png)
+* [Screenshot - List of Connected Devices](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/fb8018aa8649726a51fd34c6f45548887e48255d/00_includes/02_Networking/NTW02/NTW02-ConnectedDevices.PNG)
 
 
 ## TASK 2 - What other information does the router have about connected equipment?
@@ -99,8 +99,8 @@ Using the tabs on the top -
 - DHCP Server
 - DHCP Binding
 
-* [Reference Screenshot 1](../00_includes/02_Networking/NTW02/NTW02-ConnectedDevices.PNG)
-* [Reference Screenshot 2](../00_includes/02_Networking/NTW02/NTW02-ConnectedDevices-Router.PNG)
+![Reference Screenshot 1](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/fb8018aa8649726a51fd34c6f45548887e48255d/00_includes/02_Networking/NTW02/NTW02-ConnectedDevices.PNG)
+![Reference Screenshot 2](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/fb8018aa8649726a51fd34c6f45548887e48255d/00_includes/02_Networking/NTW02/NTW02-ConnectedDevices-Router.PNG)
 
 ## TASK 3 - Where is your DHCP server on your network? What are the configurations of this?
 
@@ -111,4 +111,4 @@ You can see the DHCP Server Configuration in settings tab of Page
 The web page of your default gateway.
 
 ### Results
-* [DHCP Server Configuration](../00_includes/02_Networking/NTW02/NTW02-DHCPServerConfig.png)
+* [DHCP Server Configuration](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/fb8018aa8649726a51fd34c6f45548887e48255d/00_includes/02_Networking/NTW02/NTW02-DHCPServerConfig.PNG)
