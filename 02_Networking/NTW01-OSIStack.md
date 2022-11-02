@@ -1,5 +1,5 @@
-# [Subject]
-# NTW01 - OSI STACK
+# [OSI STACK]
+# NTW01 
 
 ## Key terminology
 * OSI - Acronym, Open System Interconnection. It states the set of rules for hardware manufacturer and software developers.   
@@ -17,11 +17,11 @@ It provides a framework for creating and implementing networking standards, devi
 
 
 ## Sources
-* https://www.computernetworkingnotes.com/ccna-study-guide/osi-seven-layers-model-explained-with-examples.html
-* https://www.practicalnetworking.net/series/packet-traveling/osi-model/
-* https://www.networkworld.com/article/3239677/the-osi-model-explained-and-how-to-easily-remember-its-7-layers.html
-* https://www.computernetworkingnotes.com/ccna-study-guide/osi-model-advantages-and-basic-purpose-explained.html
-* https://www.javatpoint.com/computer-network-tcp-ip-model
+* [OSI 7 Layer Model](https://www.computernetworkingnotes.com/ccna-study-guide/osi-seven-layers-model-explained-with-examples.html)
+* [OSI Model](https://www.practicalnetworking.net/series/packet-traveling/osi-model/)
+* [OSI Layers](https://www.networkworld.com/article/3239677/the-osi-model-explained-and-how-to-easily-remember-its-7-layers.html)
+* [Advantages & Purpose](https://www.computernetworkingnotes.com/ccna-study-guide/osi-model-advantages-and-basic-purpose-explained.html)
+* [TCP/IP Model](https://www.javatpoint.com/computer-network-tcp-ip-model)
 
 
 
@@ -123,6 +123,6 @@ TCP/IP Model helps you to determine how a specific computer should be connected 
 
 ## Reference Images
 
-* [OSI Model and it's Layers](../00_includes/02_Networking/NTW01/NTW01-osi-model-7-layers-1.png)
+![OSI Model and it's Layers](../00_includes/02_Networking/NTW01/NTW01-osi-model-7-layers-1.png)
 
-* [OSI And TCP/IP](../00_includes/02_Networking/NTW01/NTW01-OSI_And_TCP.jpg)
+![OSI And TCP/IP](../00_includes/02_Networking/NTW01/NTW01-OSI_And_TCP.jpg)
