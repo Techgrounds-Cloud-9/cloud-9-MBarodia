@@ -1,8 +1,8 @@
-# [Subject]
+# [Protocols]
 # NTW03
 
 ## Key terminology
-[Write a list of key terminology with a short description. To prevent duplication you can reference to previous excercises.]
+Protocol - A set of rules governing the format of data sent over the internet or other network.
 
 ## Exercise
 
@@ -65,18 +65,18 @@ It introduced the new gTLDs and included the internet protocol address spaces fo
 ### Sources
 * [OSI Model and Protocols](https://data-flair.training/blogs/osi-model-in-computer-network/)  
 * [Youtube Link](https://www.youtube.com/watch?v=46pBeyHKQuQ)  
-* [Organizations who craete protocol standards](https://www.internetx.com/en/news-detailview/who-creates-the-standards-and-protocols-for-the-internet/)   
+* [Organizations who create protocol standards](https://www.internetx.com/en/news-detailview/who-creates-the-standards-and-protocols-for-the-internet/)   
 * [Capture Data Packets](https://www.youtube.com/watch?v=qAuu9gquivU)
 
 
 
 ### Overcome challenges
-[Give a short description of the challeges you encountered, and how you solved them.]
+
+    None
 
 ### Results:
-* [OSI Layers and Protocols](../00_includes/02_Networking/NTW03/NTW03-OSI_Protocols.png)
-* Screenshots   
- [Capture Data Packet1](../00_includes/02_Networking/NTW03/NTW03-CaptureDataPackets_WireShark1.png)   
- [Capture Data Packet2](../00_includes/02_Networking/NTW03/NTW03-CaptureDataPackets_WireShark2.png)
+* [OSI Layers and Protocols](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/fc84566262afeb916750d253b20bebb848352c27/00_includes/02_Networking/NTW03/NTW03-OSI_Protocols.png)
+* [Capture Data Packet1](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/fc84566262afeb916750d253b20bebb848352c27/00_includes/02_Networking/NTW03/NTW03-CaptureDataPackets_WireShark1.png)   
+* [Capture Data Packet2](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/fc84566262afeb916750d253b20bebb848352c27/00_includes/02_Networking/NTW03/NTW03-CaptureDataPackets_WireShark2.png)
 
  ## End of Document
