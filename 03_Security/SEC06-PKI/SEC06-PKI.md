@@ -31,7 +31,7 @@ SSL Certificate - Its a code that authenticates the website identity and verifie
 ### Task 3
 * [Certificates on Ubuntu](https://betterstack.com/community/questions/how-to-list-all-available-ca-ssl-certificates-on-ubuntu/)
 
-* [Certificates on Windown](https://learn.microsoft.com/en-us/answers/questions/389018/what-is-the-default-root-ca-list-in-windows-10-by.html)
+* [Certificates on Windows](https://learn.microsoft.com/en-us/answers/questions/389018/what-is-the-default-root-ca-list-in-windows-10-by.html)
 
 ## Result
 

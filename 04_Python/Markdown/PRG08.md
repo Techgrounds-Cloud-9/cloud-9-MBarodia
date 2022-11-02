@@ -36,11 +36,12 @@ Write the information to a csv file (comma-separated values). The data should no
 
 ## Sources
 
-*[w3schools](https://www.w3schools.com/python/python_dictionaries.asp)
+* [w3schools](https://www.w3schools.com/python/python_dictionaries.asp)
 
-*[File handling in Python](https://www.programiz.com/python-programming/file-operation#:~:text=Opening%20Files%20in%20Python,or%20modify%20the%20file%20accordingly.&text=We%20can%20specify%20the%20mode%20while%20opening%20a%20file)
+* [File handling in Python](https://www.programiz.com/python-programming/file-operation#:~:text=Opening%20Files%20in%20Python,or%20modify%20the%20file%20accordingly.&text=We%20can%20specify%20the%20mode%20while%20opening%20a%20file)
 
-*[Get data from Dictionary and Write in File](https://stackoverflow.com/questions/8685809/writing-a-dictionary-to-a-csv-file-with-one-line-for-every-key-value)
+* [Get data from Dictionary and Write in File](https://stackoverflow.com/questions/8685809/writing-a-dictionary-to-a-csv-file-with-one-line-for-every-key-value)
+
 ## Overcome challenges
 
 None

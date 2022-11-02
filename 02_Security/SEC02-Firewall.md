@@ -46,8 +46,8 @@ Please refer to the Screenshots in Results Section
 
 ## Sources
 * [Find Devices](https://vitux.com/find-devices-connected-to-your-network-with-nmap/)  
-*[Setup Firewall](https://linuxize.com/post/how-to-setup-a-firewall-with-ufw-on-ubuntu-20-04/)
-*[Check FirewallStatus](https://www.configserverfirewall.com/ufw-ubuntu-firewall/ubuntu-check-firewall-status-ufw/)
+* [Setup Firewall](https://linuxize.com/post/how-to-setup-a-firewall-with-ufw-on-ubuntu-20-04/)
+* [Check FirewallStatus](https://www.configserverfirewall.com/ufw-ubuntu-firewall/ubuntu-check-firewall-status-ufw/)
 
 
 
