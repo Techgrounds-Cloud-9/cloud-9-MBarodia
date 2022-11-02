@@ -72,7 +72,7 @@ Something has to exist in order to distinguish which 1’s and 0’s belong to t
   - Layer 1 is anything that carries 1’s and 0’s between two nodes.
   - The actual format of the data on the “wire” can vary with each medium. In the case of Ethernet, bits are transferred in the form of electric pulses. In the case of Wifi, bits are transferred in the form of radio waves. In the case of Fiber, bits are transferred in the form of pulses of light.
   - Repeaters and Hubs also operate at this level
-  - 
+  
 ## OSI Model Uses / Advantages
 - To standardize data networking protocols to allow communication between all networking devices across the entire planet.
 - To help network administrators by dividing large data exchange process into smaller segments. Smaller segments are easier to understand, manage and troubleshoot.
