@@ -1,4 +1,4 @@
-# [Subject]
+# [Conversion - Binary / Hexa / Decimal]
 # NTW04
 
 ## Key terminology
@@ -134,7 +134,7 @@ None
 * Divide the quotient obtained by 2 and note the remainder.
 * Repeat the same process till we get 0 as the quotient.
 * Write the values of all the remainders starting from the bottom to the top.
-*[Pictorial Presentation](../00_includes/02_Networking/NTW04/NTW04-Dec-Binary.png)
+*[Pictorial Presentation](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/f9c77645e532a1e57d9f44cebe011e11fa5c8853/00_includes/02_Networking/NTW04/NTW04-Dec-Binary.png)
 
 ### Binary to decimal: 
 * To convert a binary integer to decimal, start by adding the left-most digit to 0.

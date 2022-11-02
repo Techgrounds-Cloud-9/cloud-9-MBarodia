@@ -1,4 +1,4 @@
-# [Subject]
+# [Subnetting]
 # NTW06
 
 ## Key terminology
@@ -28,7 +28,7 @@ Post the architecture you created, including a short explanation, in the Github 
 
 ## Explanantion
 
-![Reference Digram](../00_includes/02_Networking/NTW06/NTW06-SubnettingAssignment.png)
+![Reference Digram](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/f9c77645e532a1e57d9f44cebe011e11fa5c8853/00_includes/02_Networking/NTW06/NTW06-SubnettingAssignment.png)
 
 Three subnets are required for this exercise.
 
@@ -49,7 +49,7 @@ Ip address of these 30 machines would range between, 192.168.0.43 and
 
 * [Subnetting in Cloud](https://www.youtube.com/results?search_query=subnetting+in+cloud+explained)  
 
-https://learn.microsoft.com/en-us/windows-server/networking/technologies/dhcp/dhcp-top
+* [Microsoft](https://learn.microsoft.com/en-us/windows-server/networking/technologies/dhcp/dhcp-top)
 
 
 ## Overcome challenges
@@ -63,4 +63,4 @@ Initial version was a normal LAN and WAN scenario and then considering cloud env
 
 ## Results
 
-![Reference Digram](../00_includes/02_Networking/NTW06/NTW06-SubnettingAssignment.png)
+![Reference Digram](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/f9c77645e532a1e57d9f44cebe011e11fa5c8853/00_includes/02_Networking/NTW06/NTW06-SubnettingAssignment.png)
