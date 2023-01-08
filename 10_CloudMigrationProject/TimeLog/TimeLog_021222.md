@@ -1,0 +1,13 @@
+# LOG DATE - 28 NOVEMBER 2022
+
+___
+# DAILY REPORT
+
+___
+# OBSTACLES
+
+___
+# SOLUTION
+
+___
+# LEARNINGS
