@@ -12,7 +12,9 @@
 
 The project has been designed and build using Infrastructure as Code (IaC). The infrastructure of On-premise needs to be migrated to the Azure cloud environment.
 Azure Bicep is used to implement this project. Various resources are created in bicep to acheive the objective.
-![Architecture Design 1.0] (link).
+
+![Architecture Design 1.0](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/714ba9940bf431c98562e6298379e1de2860b9ad/00_includes/Project1.0/Design/ArchitectureDesign1.0.PNG)
+
 This project has one subscription and one resource group, where all the resources are placed.
 
 ### Structure
@@ -88,7 +90,7 @@ The following resources were created as modules and deployed through the main.bi
 
 ### Code
 
-[Code] (github link)
+[Code](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/tree/main/Project1.0/ProjectFiles/Code)
 
 **PROJECT 1.1**
 
@@ -96,7 +98,8 @@ The following resources were created as modules and deployed through the main.bi
     
     Most features remaining the same as 1.0, in Project1.1, the requirement from the product owner is to increase the number of the web virtual machines as the load on one machine increases. The new machines created are temporary and it gets deleted as the load decreases. To meet this requirement, we have created a virtual machine scale set. Also the machines should also have the health checker.  
     The Application gateway is created to take the HTTP and HTTPS requests. Also, added SSL policy in the Application Gateway properties to have minimum TLS1.2 version.
-    ![Architecture Design 1.1] (link)
+
+    
 
     All the files used in Project 1.0 are used in Project 1.1 except, the WebvmdiskEncryption.bicep is not used and the WebserverVM.bicep is replaced by vmssAG.bicep.
 
@@ -106,8 +109,12 @@ The following resources were created as modules and deployed through the main.bi
 
     The main deployment happens from file mainDeployment.bicep
 
+    
+![Architecture Design 1.1](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/blob/714ba9940bf431c98562e6298379e1de2860b9ad/00_includes/Project1.1/Design/ArchitectureDesign1.1.PNG)
+
+
 ### Code
 
-[Code] (github link)
+[Code](https://github.com/Techgrounds-Cloud-9/cloud-9-MBarodia/tree/main/Project1.1/ProjectFiles/Code)
 
 
