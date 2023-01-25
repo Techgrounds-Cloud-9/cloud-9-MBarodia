@@ -1,6 +1,6 @@
 # Decisions made during the project
 
-Following decisions were made, In discussion with the project owner and based on the requirements mentioned in the project document - 
+Following decisions were made, In discussion with the product owner and based on the requirements mentioned in the project document - 
 
 * All the resources with be in one subscription and one resource group, in which all the resources will be deployed.
 
